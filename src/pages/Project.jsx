@@ -1,5 +1,6 @@
 import React from 'react';
 import Item from '../components/Project_C/Item'
+import Footer from '../components/common/Footer';
 import './project.css';
 
 
@@ -10,33 +11,27 @@ const Project = () => {
                 <p className='title'>Projects</p>
                 <div className='list'>
                 <Item
-                    name='battleship'
-                    description='A Battleship Game on Web with React.'
-                    icon='fas fa-check-double'
-                    repo='https://github.com/KelvinQiu802/battleship'
+                    name='Drag-Drop_todoList'
+                    description='A todoList Web App Built with React.'
+                    icon='fas fa-sticky-note'
+                    repo='https://github.com/Lam-Big-Water/drag-drop_todolist'
                 />
                 <Item
-                    name='kanban-react'
-                    description='A Kanban Web App Built with React.'
-                    icon='fas fa-check-double'
-                    repo='https://github.com/KelvinQiu802/kanban-react'
-                />
-                <Item
-                    name='micro-react'
-                    description='A micro React that implements React core concepts.'
-                    icon='fas fa-check-double'
-                    repo='https://github.com/KelvinQiu802/micro-react'
+                    name='Travel Website'
+                    description='A Travel Website Built with React.'
+                    icon='fas fa-suitcase-rolling'
+                    repo='https://github.com/Lam-Big-Water/react-website'
                 />
                 <Item
                     name='mini-redux'
                     description='Use the most simple Javascript to implement Redux core functions.'
-                    icon='fas fa-check-double'
+                    icon='fas fa-car'
                     repo='https://github.com/KelvinQiu802/mini-redux'
                 />
                 <Item
                     name='bookstore'
                     description='A Book Searching Website using Google Book API.'
-                    icon='fas fa-check-double'
+                    icon='fas fa-book'
                     repo='https://github.com/KelvinQiu802/bookstore'
                 />
                 <Item
@@ -49,19 +44,14 @@ const Project = () => {
                 <p className='title'>Demo</p>
                 <div className='list'>
                 <Item
-                    name='163-music-downloader'
-                    description='A tampermonkey script to download 163 music.'
-                    icon='fas fa-check-double'
+                    name='component box'
+                    description='Create a personal component library.'
+                    icon='fas fa-box'
                     repo='https://github.com/KelvinQiu802/163MusicDownloaderScript'
-                />
-                <Item
-                    name='dark-mode-toggle'
-                    description='A dark mode demo.'
-                    icon='fas fa-check-double'
-                    repo='https://github.com/KelvinQiu802/dark-mode-toggle'
                 />
                 </div>
             </div>
+            <Footer />
     </>
     )
 }

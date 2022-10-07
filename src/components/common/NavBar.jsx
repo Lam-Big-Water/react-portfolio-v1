@@ -17,7 +17,7 @@ const NavBar = ({setMode, mode}) => {
         } 
     }, [mode])
     return (
-        <div className='container'>
+        <div className='nav-bar'>
             <Link className='signature' to="/">Sam</Link>
             <nav className='nav'>
                 <Link className='laptop' to='/'>Me</Link>

@@ -1,9 +1,4 @@
-section {
-    max-width: 820px;
-    margin: 0 auto;
-    margin-top: 20px;
-    padding: 0 40px;
-}
+
 .avatar {
     border-radius: 999px;
     transition: opacity 3s;
@@ -59,8 +54,4 @@ opacity: 0;
     margin-left: 5px;
 }
 
-section {
-    margin-top: 5px;
-    padding: 0 25px;
-}
 }

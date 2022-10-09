@@ -7,7 +7,7 @@ const Content = () => {
         <section className='content plain'>
             <article>
                 <p>
-                Hi, I&apos;m Sam, a undergraduate at{' '}
+                Hi, I&apos;m Sam, a failed to graduate at{' '}
                 <span className='stress'>
                 HKBU-SCE YJ Diploma student
                 </span>

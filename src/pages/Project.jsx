@@ -20,26 +20,26 @@ const Project = () => {
                     name='Travel Website'
                     description='A Travel Website Built with React.'
                     icon='fas fa-suitcase-rolling'
-                    repo='https://github.com/Lam-Big-Water/react-website'
+                    repo='https://github.com/Lam-Big-Water/React-website-v1/blob/main/README.md'
                 />
                 <Item
-                    name='mini-redux'
-                    description='Use the most simple Javascript to implement Redux core functions.'
+                    name='used car website'
+                    description='A Used Car Website Built with HTML5 CSS3 Javascript.'
                     icon='fas fa-car'
-                    repo='https://github.com/KelvinQiu802/mini-redux'
+                    repo='https://github.com/Lam-Big-Water/used-car-website/tree/2.0v'
                 />
-                <Item
+                {/* <Item
                     name='bookstore'
                     description='A Book Searching Website using Google Book API.'
                     icon='fas fa-book'
                     repo='https://github.com/KelvinQiu802/bookstore'
-                />
-                <Item
+                /> */}
+                {/* <Item
                     name='your-cat'
                     description='A website that will help you to choose the best breed of cat for you by asking you a few questions.'
                     icon='fas fa-check-double'
                     repo='https://github.com/KelvinQiu802/your-cat'
-                />
+                /> */}
                 </div>
                 <p className='title'>Demo</p>
                 <div className='list'>
@@ -47,7 +47,7 @@ const Project = () => {
                     name='component box'
                     description='Create a personal component library.'
                     icon='fas fa-box'
-                    repo='https://github.com/KelvinQiu802/163MusicDownloaderScript'
+                    repo='https://github.com/Lam-Big-Water/component-box'
                 />
                 </div>
             </div>

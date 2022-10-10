@@ -5,6 +5,7 @@
     bottom: 0;
     transform: translateX(-50%); */
     margin-top: 60px;
+    padding-bottom: 20px;
     text-align: center;
     color: var(--element8);
     font-size: 14px;
@@ -21,8 +22,6 @@ text-decoration-color: var(--element8);
 
 @media screen and (max-width: 600px) {
 .footer {
-    margin-top: 60px;
-    margin-bottom: 20px;
     text-align: center;
 }
 

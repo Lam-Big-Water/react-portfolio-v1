@@ -20,7 +20,7 @@ const Project = () => {
                     name='Travel Website'
                     description='A Travel Website Built with React.'
                     icon='fas fa-suitcase-rolling'
-                    repo='https://github.com/Lam-Big-Water/React-website-v1/blob/main/README.md'
+                    repo='https://github.com/Lam-Big-Water/React-website-v1'
                 />
                 <Item
                     name='used car website'

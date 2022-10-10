@@ -30,7 +30,7 @@ const Content = () => {
                 </Link>{' '}
                 page, I will show you all of my projects with a{' '}
                 <a
-                    href='https://github.com/kelvinqiu802'
+                    href='https://github.com/Lam-Big-Water'
                     className='textLink'
                     rel='noreferrer'
                     target='_blank'

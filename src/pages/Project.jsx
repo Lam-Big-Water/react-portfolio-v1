@@ -14,13 +14,13 @@ const Project = () => {
                     name='Drag-Drop_todoList'
                     description='A todoList Web App Built with React.'
                     icon='fas fa-sticky-note'
-                    repo='https://github.com/Lam-Big-Water/drag-drop_todolist'
+                    repo='http://drag-drop-todolist.vercel.app/'
                 />
                 <Item
                     name='Travel Website'
                     description='A Travel Website Built with React.'
                     icon='fas fa-suitcase-rolling'
-                    repo='https://github.com/Lam-Big-Water/React-website-v1'
+                    repo='http://react-travel-website-vite.vercel.app/'
                 />
                 {/* <Item
                     name='bookstore'

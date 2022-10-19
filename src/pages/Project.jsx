@@ -22,12 +22,6 @@ const Project = () => {
                     icon='fas fa-suitcase-rolling'
                     repo='https://github.com/Lam-Big-Water/React-website-v1'
                 />
-                <Item
-                    name='used car website'
-                    description='A Used Car Website Built with HTML5 CSS3 Javascript.'
-                    icon='fas fa-car'
-                    repo='https://github.com/Lam-Big-Water/used-car-website/tree/2.0v'
-                />
                 {/* <Item
                     name='bookstore'
                     description='A Book Searching Website using Google Book API.'

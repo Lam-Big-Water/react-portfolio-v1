@@ -45,7 +45,7 @@ const Content = () => {
                 <p>
                 Find me on{' '}
                 <a
-                    href='https://github.com/kelvinqiu802'
+                    href='https://github.com/Lam-Big-Water'
                     rel='noreferrer'
                     target='_blank'
                     className='textLink'
